@@ -1,0 +1,17 @@
+@charset "BIG5";
+body
+{
+	background-color:#F1EEE2;
+}
+#head
+{
+	background-color:#C3BEC8;
+}
+.content
+{
+	background-color:#DBD8DE;
+}
+.end
+{
+	background-color:#5B5363;
+}
